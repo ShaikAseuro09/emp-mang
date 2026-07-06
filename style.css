@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    color: green;
+    color: rgb(128, 0, 21);
 }
 
 table {
@@ -20,7 +20,7 @@ td {
 }
 
 th {
-    background-color: #34db8d;
+    background-color: #db3458;
     color: white;
 }
 
